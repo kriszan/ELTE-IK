@@ -1,0 +1,304 @@
+{
+    "database": [
+        {
+            "id": 1,
+            "name": "Gala",
+            "description": [
+                "Az Új-Zélandról származó Gala alma az 1930-as években született, amikor J.H. Kidd nevű kertész a Kidd's Orange Red és a Golden Delicious fajtákat keresztezte. A fajta hamarosan világhódító útra indult, és mára az egyik legnépszerűbb almafajta lett a világon – különösen Európában, Észak-Amerikában és Ausztráliában termesztik nagy mennyiségben. Magyarországon is széles körben elterjedt, és a hazai piacokon, szupermarketekben szinte egész évben megtalálható.",
+                "A Gala alma megjelenése rendkívül vonzó: közepesen kis méretű, gömbölyded gyümölcs, amelynek alapszíne sárga, de a napos oldalán szép piros-narancssárga csíkozottság jelenik meg. A héja vékony és fényes, felülete sima. A gyümölcs belseje krémfehér, tömör és finom szemcsés, alig savas, édeskés ízvilágú. Az aromája kellemes, enyhén gyümölcsös, virágos jegyekkel átszőtt, ami különösen a frissen szedett példányokra jellemző.",
+                "A Gala alma korai fajtának számít: általában augusztus elejétől szüretelhető, így az egyik első „igazi\" almafajtaként köszönti az őszt. Frissen fogyasztva a legjobb, de salátákba, gyermekételekbe és smoothie-kba is kiválóan illik édes, visszafogottan savas karaktere miatt. Sütésre kevésbé ajánlott, mivel a hő hatására kissé elveszti szerkezetét és sajátos aromáját.",
+                "Termesztési szempontból a Gala viszonylag igényes fajta: jó vízellátást, tápanyagban gazdag talajt és rendszeres metszést igényel. Érzékeny a tűzelhalásra (Erwinia amylovora) és az almavarasodásra (Venturia inaequalis), ezért gondos növényvédelmet kíván. Ugyanakkor korán és bőven terem, ami gazdasági szempontból nagy előnyt jelent az ültetvényeseknek. A gyümölcsök egyenletes mérete és vonzó megjelenése miatt kiváló piaci értékkel bír.",
+                "A Galának számos klónja és mutánsa létezik, amelyeket szelektív nemesítéssel fejlesztettek ki a még jobb szín, méret és eltarthatóság érdekében. Ilyen például a Royal Gala, a Galaxy Gala és a Mondial Gala. Ezek a változatok valamivel intenzívebb pirosodásúak és kissé hosszabb tárolási időt tesznek lehetővé. A Gala alma fogyasztása egészséges életmód részét képezheti: gazdag antioxidánsokban, C-vitaminban és élelmi rostban, amelyek együttesen hozzájárulnak az immunrendszer erősítéséhez és az emésztés egészséges működéséhez."
+            ],
+            "image": "./public/images/apples/images/gala.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/gala.jpg",
+            "alt": "Gala alma",
+            "title": "Gala alma - Almák"
+        },
+        {
+            "id": 2,
+            "name": "Golden Delicious",
+            "description": [
+                "A Golden Delicious egy igazi klasszikus, amelynek gyökerei az Amerikai Egyesült Államokba, West Virginia államba nyúlnak vissza. Az 1890-es évek végén fedezték fel mint véletlen magonc a Mullins család farmján, és 1916-ban vált kereskedelmileg elérhetővé a Stark Brothers Nurseries forgalmazásának köszönhetően. Azóta a világ egyik legelterjedtebb almafajtájává nőtte ki magát, és különösen Európában – Franciaországban, Olaszországban és Magyarországon – vált a termesztés alapkövévé.",
+                "A Golden Delicious könnyen felismerhető aranysárga héjáról, amely érettkor egyenletesen sárga, olykor halvány zöldes árnyalattal. A gyümölcs közepesen nagy, ovális vagy enyhén kúpos alakú. Húsa krémszínű, lédús, finom szemcsés, íze édeskés, kellemes, enyhe savasággal kiegészítve, ami hosszan eltartó aromaélményt nyújt. Frissen szedve kifejezetten illatgazdag, mézes jegyekkel.",
+                "Sokoldalúsága az egyik legnagyobb erénye: kiválóan alkalmas friss fogyasztásra, de ugyanolyan jól szerepel süteményekben, almaszószban, gyümölcssalátákban és préselt almalében is. Sütéskor jól megtartja alakját, és édessége miatt kevesebb cukor szükséges a receptekhez. Különösen népszerű gyermekek körében visszafogott savassága és kellemes édessége miatt.",
+                "Termesztése viszonylag egyszerű, a fajta termékeny és bőtermő, sok más fajtának kiváló porlésa. Érzékeny azonban a keserűfoltosságra és az almavarasodásra, valamint a tárolás során fellépő héjbarnulásra (bitter pit). Jó termesztési körülmények között nagy, egységes gyümölcsöket hoz, amelyek a kereskedelemben kiváló árat érnek el. A fajta mérsékelt éghajlaton érzi magát a legjobban, de széles körű alkalmazkodóképessége miatt számos eltérő termőhelyen is termeszthető sikerrel.",
+                "A Golden Deliciousból számos mutáns és klón született az évtizedek során, amelyek javított héjszínnel, jobb eltarthatósággal vagy kisebb méretű fával rendelkeznek. Ilyen például a Smoothee, a Goldrun és a Gold Chief. A fajta keresztezési alapanyagként is óriási szerepet játszott: belőle nemesítették többek között a Jonagoldot, a Mutsu-t és az Elstar-t is. Tápértékét tekintve a Golden Delicious gazdag káliumban, C-vitaminban és élelmi rostban, rendszeres fogyasztása hozzájárul a szív-érrendszer egészségéhez és az emésztés zavartalanságához."
+            ],
+            "image": "./public/images/apples/images/golden_delicious.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/golden_delicious.jpg",
+            "alt": "Golden Delicious alma",
+            "title": "Golden Delicious alma - Almák"
+        },
+        {
+            "id": 3,
+            "name": "Granny Smith",
+            "description": [
+                "A Granny Smith az ausztrál Maria Ann Smith nevéhez fűződik, aki az 1860-as években fedezte fel ezt a véletlen magonc fajtát Sydney közelében, Eastwood városában. A legenda szerint egy francia kaszálós alma magvaiból kelt ki, amelyet a piac melletti patakba dobtak. Maria Smith gondozásába vette a fiatal fát, amely rendkívül vonzó, élénkzöld almákat hozott. Halála után a fajta tovább terjedt Ausztráliában, majd a 20. század közepére a világ egyik legelismertebb almafajtájává vált.",
+                "A Granny Smith legjellegzetesebb ismertető jegye a ragyogó, élénkzöld héja, amely érettkor sem sárgul be számottevően – ez teszi egyedivé a piaci kínálatban. Gyümölcse közepesen nagy, gömbölyded vagy enyhén lapított, héja vastag, de fényes. Húsa fehér, rendkívül ropogós és kemény, lédús, íze markánsan savas, frissítő, viszonylag kevés természetes cukorral. Ez az intenzív savasság teszi különlegessé: azok számára is élvezetes, akik nem kedvelik a túlzottan édes almákat.",
+                "Konyhai felhasználása szinte korlátlan. Kitűnő alapanyag almás pitékhez, crumble-höz és chutney-khoz, mivel savas karaktere és kemény húsa sütés közben is megőrzi formáját. Sajtokkal, diófélékkel és hússal kombinálva ínycsiklandó ételeket lehet készíteni belőle. Frissen fogyasztva is népszerű, különösen almaszeletként dip-mártásokhoz kínálva. Almalébe és almaborba is kiváló alapanyag savasságának és intenzív ízének köszönhetően.",
+                "Termesztése széleskörű, a fajta alkalmazkodik a különböző éghajlatokhoz, de az igazán kiváló minőségű terméshez melegebb, napos, hosszú tenyészidőre van szüksége. Érzékeny a télvégi fagyokra, ugyanakkor viszonylag ellenálló bizonyos gombabetegségekkel szemben. Tárolhatósága kiemelkedő: megfelelő hűtőházi körülmények között akár 12 hónapig is megőrzi frissességét és ropogós állagát, ami kereskedelmi szempontból rendkívül értékes tulajdonság.",
+                "A Granny Smith alma kulturális ikonná is vált: az Apple Records (a Beatles lemezkiadója) zöld almát választott logójának, és maga a gyümölcs is számos festményen, filmben és popkulturális alkotásban jelenik meg. Tápértéke sem elhanyagolható: a zöld alma kiemelkedően magas antioxidáns-tartalmú, különösen flavonoidokban gazdag, amelyek gyulladáscsökkentő és szívvédő hatásúak. Alacsonyabb cukortartalma miatt cukorbetegek és fogyókúrázók számára is ajánlott gyümölcs."
+            ],
+            "image": "./public/images/apples/images/granny_smith.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/granny_smith.jpg",
+            "alt": "Granny Smith alma",
+            "title": "Granny Smith alma - Almák"
+        },
+        {
+            "id": 4,
+            "name": "Jonathan",
+            "description": [
+                "A Jonathan alma Magyarországon évtizedeken át az egyik legelterjedtebb és legkedveltebb almafajtának számított. Az Egyesült Államokban, New York államban keletkezett a 19. század elején, és Európába – köztük Magyarországra – a 20. század első felében terjedt el. Hazánkban különösen a Dél-Alföldön és az Északi-középhegységben vált meghatározó fajtává, ahol a kedvező éghajlati viszonyok kiváló minőségű termést biztosítottak számára.",
+                "A Jonathan közepes méretű, gömbölyded gyümölcs, amelynek alapszíne sárgászöld, de érettkor a felületet szinte teljesen ellepi az élénkpiros fedőszín, finom kékesszürke viaszréteg kíséretében. Húsa fehér vagy sárgásfehér, finom szemcsés, ropogós, lédús. Íze harmonikus, savanykás-édes, enyhén fűszeres aromával, amely különösen a megfelelően beért, optimálisan tárolt példányokban bontakozik ki teljesen.",
+                "Szüreti ideje október közepe-vége, tárolhatósága jó: megfelelő hűtőházi körülmények között januárig-februárig megőrzi minőségét. Frissen fogyasztva és feldolgozva egyaránt értékes: kiváló almabort, almalevet, aszalt almát és almaszószt lehet belőle készíteni. Sütéskor jól viselkedik, bár húsa kissé fellazulhat magas hőmérsékleten. A Jonathan almából készült befőttek, lekvárok és dzsemek különösen aromásak és ízletesek.",
+                "Termesztési szempontból a Jonathan igényes fajta: rendszeres metszést, gondos növényvédelmet és jó talajminőséget kíván. Az egyik legnagyobb probléma a Jonathan-betegség (Jonathan spot), egy tárolás közbeni fiziológiai rendellenesség, amely barna foltokat okoz a húsban. Emellett fogékony az almavarasodásra és a lisztharmatosodásra is. Mindezek ellenére hosszú évtizedeken át gerincét képezte a magyar almatermesztésnek, és ma is értékes fajtának számít.",
+                "A Jonathan alma kulturális-gasztronómiai jelentősége Magyarországon kiemelkedő. Számos generáció nőtt fel ennek a fajtának az ízén, és a hazai piaci hagymányokban máig különleges helyet foglal el. Az idősebb fogyasztók körében különösen kedvelt, akik a „régi alma\" aromáját keresik a modern, exportorientált fajtákkal szemben. Tápanyagokban gazdag: magas C-vitamin- és polifenol-tartalma, valamint rostban való bősége miatt rendszeres fogyasztása kedvező hatással van az immunrendszerre és az emésztőrendszerre egyaránt."
+            ],
+            "image": "./public/images/apples/images/no_image.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/no_image.jpg",
+            "alt": "Jonathan alma",
+            "title": "Jonathan alma - Almák"
+        },
+        {
+            "id": 5,
+            "name": "Fuji",
+            "description": [
+                "A Fuji alma Japánból származik, ahol az 1930-as és 1940-es években nemesítették a Tohoku Kutatóintézetben, a Red Delicious és a Ralls Janet keresztezésével. Az 1962-es évtől vált kereskedelmileg elérhetővé, majd fokozatosan meghódította Ázsiát, Észak-Amerikát és Európát is. Mára a világ egyik legnagyobb mennyiségben termesztett almafajtája, Kínában pedig az abszolút vezető helyet foglalja el a termelési statisztikákban.",
+                "A Fuji alma megjelenése piros-sárga csíkos, a gyümölcs közepesen nagy vagy nagy, gömbölyded. Héja vastaggal, fényes, fedőszíne a napos oldalakon élénkpiros, az árnyékos oldalakon sárgásbarna. Húsa sárgásfehér, rendkívül ropogós, tömör, lédús – ez az egyik legfontosabb tulajdonsága, amely megkülönbözteti a többi fajtától. Íze harmonikusan édes, alacsony savtartalommal, finom, enyhén dióra emlékeztető aromával.",
+                "A Fuji alma kiemelkedő tárolhatóságáról is ismert: hűtőházi körülmények között akár 6-9 hónapig is megőrzi frissességét, ropogós állagát és ízeit, ami kereskedelmi szempontból rendkívüli értéket képvisel. Frissen fogyasztva a legjobb, de almalé készítésére is kitűnően alkalmas édessége és magas lédússága miatt. Sütésre kevésbé ajánlott, mivel édes-lágy karaktere sütés közben elveszhet.",
+                "Termesztése mérsékelt és melegebb éghajlaton egyaránt lehetséges. A fajta igényli a hosszú tenyészidőszakot és a napos termőhelyet, mert csak így éri el a tőle elvárható cukortartalmat és ropogós állagot. Érzékeny a tűzelhalásra és egyes almarozsda-betegségekre. Számos klónja és mutánsa létezik (Kiku, Fubrax, Aztec), amelyek még intenzívebb piros fedőszínt és javított árualakot mutatnak.",
+                "A Fuji alma különlegesen magas cukortartalma (akár 15-18 Brix-fok) egyedülállóan édes ízt biztosít, ami különösen Ázsiában aratott óriási sikert. Japánban és Kínában prémium termékként kezelik, ahol az egyenletesen szép, nagy példányokat díszcsomagolásban ajándékként is árusítják. Egészségügyi szempontból gazdag antioxidánsokban, kvercetin- és klorogénsavtartalma kiemelkedő, amelyek gyulladáscsökkentő és sejtvédő hatást fejtenek ki a szervezetben."
+            ],
+            "image": "./public/images/apples/images/fuji.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/fuji.jpg",
+            "alt": "Fuji alma",
+            "title": "Fuji alma - Almák"
+        },
+        {
+            "id": 6,
+            "name": "Braeburn",
+            "description": [
+                "A Braeburn egy véletlen magonc, amelyet 1952-ben fedeztek fel Új-Zélandon, O. Moran farmján, Nelson körzetében. Eredete pontosan nem tisztázott, de feltehetőleg a Lady Hamilton és egy ismeretlen fajta kereszteződéséből keletkezett. Gyorsan elnyerte a termesztők és a fogyasztók tetszését, és az 1980-as évektől kezdve Európába – köztük Magyarországra – is eljutott, ahol főként őszi-téli almafajták közt szerzett helyet magának.",
+                "A Braeburn gyümölcse közepesen nagy, gömbölyded vagy enyhén kúpos. Héja sárgászöld alapon sötétpiros csíkozottsággal díszített, felülete matt vagy gyengén fényes. Húsa sárgásfehér, rendkívül ropogós és kemény, sűrű, lédús. Íze a Granny Smith savasságát és a Golden Delicious édességét ötvözi: harmonikus, frissítő, kellemes fűszeres-savanykás aromával, amely a tárolás során is megmarad.",
+                "Szüreti ideje október vége, november eleje, és hűtve tárolva akár márciusig, áprilisig megőrzi kiváló minőségét. Sokoldalú felhasználású fajta: kiváló frissen fogyasztva, de sütve, kompótba főzve és almalé alapanyagaként is megállja a helyét. Intenzív aromája miatt különösen kedvelt az ínyencek körében, akik nem elégszenek meg a „semleges\" ízű kereskedelmi fajtákkal.",
+                "Termesztése nem mentes kihívásoktól: a Braeburn érzékeny a Braeburn-barnulásra, egy tárolás közbeni fiziológiai rendellenességre, amely a belső szövetekben barna elszíneződést okoz. Emellett fogékony a lisztharmatosodásra és az almavarasodásra is. Az optimális gyümölcsminőség eléréséhez hosszú, meleg tenyészidőszak és gondos termesztéstechnika szükséges, ami korlátozza az ideális termőhelyek körét.",
+                "A Braeburn rendkívüli ízegyensúlya és ropogós állaga miatt a prémiumkategóriás almapiacon komoly szerepet játszik. Sokan az egyik legjobb ízű almafajtának tartják, különösen azok, akik a savas-édes egyensúlyt kedvelik. Számos mutáns klónja ismert, amelyek javított fedőszínt és jobb tárolhatóságot mutatnak. Egészségügyi értéke is kiemelkedő: magas antioxidáns-tartalma, alacsony glikémiás indexe és bőséges rost-tartalma révén a tudatos táplálkozók egyik kedvenc gyümölcse."
+            ],
+            "image": "./public/images/apples/images/braeburn.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/braeburn.jpg",
+            "alt": "Braeburn alma",
+            "title": "Braeburn alma - Almák"
+        },
+        {
+            "id": 7,
+            "name": "Jonagold",
+            "description": [
+                "A Jonagold a Jonathan és a Golden Delicious fajtákat ötvöző hibrid, amelyet 1943-ban kereszteztek a New York-i Geneva Kísérleti Állomáson, és 1968-ban bocsátottak kereskedelmi forgalomba. A fajta neve is a szülőfajtákra utal: a 'Jona' a Jonathanra, a 'gold' pedig a Golden Delicious-ra. Mára Európa egyik legnépszerűbb almatermesztési fajtájává vált, különösen Belgiumban, Hollandiában és Magyarországon termelik nagy mennyiségben.",
+                "A Jonagold nagyméretű, gömbölyded gyümölcse azonnal szemet szúr: sárga alapszínen élénkpiros fedőszín jelenik meg, amely változó kiterjedésű lehet az egyes klónoktól és termőhelyi adottságoktól függően. Húsa sárgásfehér, lédús, ropogós, finom szemcsés szerkezetű. Ízvilága rendkívül kiegyensúlyozott: a Jonathan savanykás-fűszeres aromáját és a Golden Delicious édességét ötvözi, így sokan ezt tartják az ideális ízprofil egyik legszebb megtestesítőjének.",
+                "Szüreti ideje október közepe-vége, eltarthatósága jó: hűtve tárolva februárig-márciusig megőrzi frissességét. Frissen fogyasztva élvezet, de sütésre, almaszósznak és gyümölcslének is kiváló. Különösen elterjedt házi feldolgozásra: almás rétes, pite és befőtt alapanyagaként évtizedek óta kedvelt a magyar háztartásokban.",
+                "Termesztési szempontból a Jonagold triploid fajta, azaz három kromoszómakészlettel rendelkezik, ami azt jelenti, hogy nem alkalmas pollenforrásnak – termékenyítéséhez diploid fajták jelenléte szükséges a kertben. Bőtermő és korán terem, de a túlzott terhelés elkerülése érdekében ritkítást igényel. Fogékony az almavarasodásra és a tűzelhalásra, ezért rendszeres növényvédelmi beavatkozások szükségesek.",
+                "A Jonagold-nak számos klónja és mutánsa ismert, amelyek különböző fedőszín-intenzitást és árualakot mutatnak: ilyen például a Jonagored, a Decosta, a Jonica és a Rubinstar. Ezek a változatok általában erősebb, fedettebb piros színt mutatnak, ami a kereskedelemben magasabb árat érhet el. Tápértékét tekintve a Jonagold gazdagon tartalmaz C-vitamint, B6-vitamint és káliumot, emellett magas polifenol-tartalma révén antioxidáns hatású, hozzájárulva a szív-érrendszer védelméhez."
+            ],
+            "image": "./public/images/apples/images/jonagold.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/jonagold.jpg",
+            "alt": "Jonagold alma",
+            "title": "Jonagold alma - Almák"
+        },
+        {
+            "id": 8,
+            "name": "Pink Lady (Cripps Pink)",
+            "description": [
+                "A Pink Lady az egyik első „márkázott\" almafajta a világon, amelynek igazi neve Cripps Pink. John Cripps ausztrál nemesítő hozta létre a Western Australian Department of Agriculture keretein belül az 1970-es években, a Golden Delicious és a Lady Williams keresztezésével. A gyümölcs 1985-re érte el a kereskedelmi bevezetéshez szükséges érettséget, és azóta szigorúan védjegyzett márka alatt értékesítik – a „Pink Lady\" elnevezést csak a minőségi előírásoknak megfelelő termés viselheti.",
+                "A Pink Lady megjelenése egyedi és könnyen felismerhető: a gyümölcs alapszíne sárgászöld, amelyet jellegzetes rózsaszínes-pirosra változó fedőszín borít. Alakja ovális, enyhén megnyúlt. Héja vastag, fényes. Húsa fehér, rendkívül kemény és ropogós, lédús, tömör szerkezetű. Íze harmonikus, frissítő savanykás-édes kombináció, kissé mézsavós, gyümölcsös aromával – egyedi ízprofil, amelyet más almafajta nehezen közelít meg.",
+                "A Pink Lady az egyik legjobb eltarthatóságú almafajta: hűtőházi körülmények között akár 9-10 hónapig megőrzi ropogós állagát és friss aromáját. Frissen fogyasztva a legjobb, de saláták, sajttálak és prémiumgasztronómiás fogások mellé is kiváló kísérő. Sütésre is alkalmas, bár kemény húsa sütés közben is csak lassan puhul, ami egyes receptekben előny lehet.",
+                "Termesztése nagyon igényes: a Pink Lady csak meleg, napos éghajlaton éri el a kívánt cukor- és savtartalmat, valamint a jellegzetes fedőszínt. A szüreti ideje az egyik legkésőbbi – általában november elején kerül sor a betakarításra. Növényvédelmi szempontból fogékony az almavarasodásra, a lisztharmatosodásra és a tűzelhalásra. A márkás értékesítés szigorú minőségi előírásai miatt csak a megfelelő méretű, festettségű és cukortartalmú gyümölcsök nyerhetik el a Pink Lady nevet.",
+                "A Pink Lady alma prémiumkategóriás termékként pozícionálta magát a globális almapiacokon, és ma már Franciaország, Olaszország, Spanyolország, Ausztrália és az Egyesült Államok is jelentős termelő. A márka fenntartása érdekében a termesztők szigorú licencszerződések alapján dolgoznak. Egészségügyi értéke kiemelkedő: az almák között az egyik legmagasabb antioxidáns-tartalmú fajta, polifenoljai hozzájárulnak a szív- és érrendszeri betegségek megelőzéséhez, magas C-vitamin- és rosttartalma pedig az immunrendszert és az emésztést támogatja."
+            ],
+            "image": "./public/images/apples/images/pink_lady.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/pink_lady.jpg",
+            "alt": "Pink Lady alma",
+            "title": "Pink Lady alma - Almák"
+        },
+        {
+            "id": 9,
+            "name": "Idared",
+            "description": [
+                "Az Idared az egyik legfontosabb téli almafajta, amelyet az Egyesült Államokban, Idaho állam Kísérleti Állomásán nemesítettek 1935-ben a Jonathan és a Wagener fajták keresztezésével. Magyarországra az 1960-as és 1970-es évek során honosodott meg, és hamarosan az egyik legelterjedtebb hazai termesztési fajtává vált. Különösen a Dunántúlon és az Északi-középhegységben terjedt el széles körben, ahol hosszú évtizedeken át a hazai almatermesztés alapkövét képezte.",
+                "Az Idared gyümölcse közepes vagy nagy méretű, gömbölyded vagy enyhén lapított. Héja sima, fényes, alapszíne sárgászöld, amelyet szinte teljesen eltakar az élénk ciklámenpirostól sötétpirosig terjedő fedőszín. Húsa fehér, olykor halvány zöldes árnyalattal, finom szemcsés, tömör, lédús. Íze a frissen szedett gyümölcsben savanykás-édes, de tárolás során fokozatosan olvad és édessége kerül előtérbe, savassága mérséklődik.",
+                "Szüreti ideje október közepe-vége, kiemelkedő tárolhatósága révén akár júniusig-júliusig megőrzi elfogadható minőségét megfelelő hűtőházi körülmények között – ez az egyik leghosszabb tárolhatóságú almafajta. Felhasználása sokoldalú: frissen fogyasztható, de feldolgozásra is kiváló: almalé, almaszósz, befőtt, lekvár és aszalt alma készítéséhez egyaránt alkalmas. Sütésre is jól bevált fajta, almás pitébe és rétesbe kerülve különösen ízletes.",
+                "Termesztési szempontból az Idared viszonylag igénytelen és alkalmazkodóképes fajta, amely széles körű termőhelyi adottságokon megterem. Bőtermő és korán beér termőkorba. Hátrányai közé tartozik azonban, hogy a tűzelhalással szemben fogékony, és varasodásra is hajlamos. Emellett az érési időszakban a gyümölcsök hulláshajlamosak, ami a szüret időzítését fontossá teszi. A klímaváltozás hatására a hosszan eltartható téli fajták, mint az Idared, egyre inkább értékelődnek fel.",
+                "Az Idared alma több évtizedes magyarországi jelenléte során szinte „hungarikummá\" vált: a hazai fogyasztók körében az Idared neve az őszi-téli friss alma szimbólumává lett. Sok magyar háztartásban az Idared volt az első befőtt, az első almaszósz, az első frissen préselt almalé alapanyaga. Tápértéke gazdag: kiemelkedő C-vitamin- és rostforrás, antioxidáns polifenolokat tartalmaz, és alacsony kalóriatartalma révén ideális snack az egészséges életmódot preferálók számára."
+            ],
+            "image": "./public/images/apples/images/idared.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/idared.jpg",
+            "alt": "Idared alma",
+            "title": "Idared alma - Almák"
+        },
+        {
+            "id": 10,
+            "name": "Red Delicious (Starking)",
+            "description": [
+                "A Red Delicious, vagy ahogy Magyarországon sokáig ismerték, a Starking, az alma egyik legikonikusabb fajtája. 1872-ben fedezték fel Iowa állam egyik farmján, Jesse Hiatt kertész birtok, aki kezdetben ki is vágta a váratlanul kinőtt magoncat, majd amikor újra kisarjadt, úgy döntött, meghagyja és megvárja az első termést. A gyümölcs ízétől elbűvölve „Hawkeye\"-nak nevezte el, majd a Stark Brothers vásárolta meg a jogokat, és Red Delicious márkanéven terjesztette el az egész világon az 1900-as évektől.",
+                "A Red Delicious megjelenése szinte karikaturisztikusan almás: mélypiros, fényes, ötkarélyos alapú, megnyúlt kúpos alakú gyümölcs, amelyet sokan az alma „ősképeként\" tartanak számon. Héja vastag, kemény. Húsa sárgásfehér, lágy, nem különösebben ropogós, lisztes állagú érettség után. Íze édeskés, alacsony savtartalmú, de sajnos a kereskedelmi termesztés évtizedei alatt az ízbeli tulajdonságok háttérbe szorultak a megjelenés és a tárolhatóság javítása érdekében.",
+                "A 20. század közepén a Red Delicious Amerika legnépszerűbb almafajtája volt, és szinte szimbolikussá vált. Azonban az ízminőség fokozatos romlása és a fogyasztói igények változása miatt az elmúlt évtizedekben jelentősen visszaszorult. A vastagabb héj, a lisztes állag és a visszafogott íz sokakat eltávolított a fajtától. Az Egyesült Államokban a Gala, a Honeycrisp és a Fuji mára megelőzte értékesítési statisztikákban.",
+                "Termesztése viszonylag egyszerű: korán és bőven terem, jól alkalmazkodik különböző éghajlati viszonyokhoz, és jó eltarthatóságú. Számos klónja és mutánsa létezik, amelyek különböző fedőszín-intenzitást és alakot mutatnak – a Starking például az egyik ilyen, Magyarországon elterjedt mutáns változat. Növényvédelmi szempontból fogékony az almavarasodásra és a tűzelhalásra.",
+                "Ma a Red Delicious inkább a friss fogyasztói piac helyett a feldolgozóiparban talál felvevőpiacra – almalé és almaszósz alapanyagaként használják. Néhány termelő organikus gazdálkodásban régi klónokat termeszt, ahol az eredeti ízprofil jobban érvényesül. Tápértéke azért nem elhanyagolható: a Red Delicious az egyik legmagasabb antioxidáns-tartalmú alma, különösen a héja gazdag katechinekben, flavonoidokban és proantocianidinekben – ezért a héjával együtt fogyasztva az egészségügyi előnyök maximálisan kihasználhatók."
+            ],
+            "image": "./public/images/apples/images/red_delicious.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/red_delicious.jpg",
+            "alt": "Red Delicious alma",
+            "title": "Red Delicious alma - Almák"
+        },
+        {
+            "id": 11,
+            "name": "Mutsu",
+            "description": [
+                "A Mutsu, más néven Crispin, egy japán nemesítésű fajta, amelyet 1930-ban kereszteztek a Golden Delicious és az Indo (egy japán almafajta) ötvözésével. Japánban 1948-ban bocsátottak szabadalmat rá, majd az 1960-as évektől kezdve Európában és Észak-Amerikában is elterjedt. Neve a japán Mutsu tartományból ered, a „Crispin\" elnevezés az angolszász piacokon terjedt el. Magyarországon viszonylag kevéssé ismert, de a hazai alma-specialisták körében értékes és keresett fajtának számít.",
+                "A Mutsu az egyik legnagyobb méretű almafajta: gyümölcse akár 300-400 gramm is lehet, gömbölyded, enyhén lapított. Héja sárgászöld, érettkor sárgás-arany árnyalatot vesz fel, olykor halvány pirossal. Felülete érdes tapintású, matt. Húsa sárgásfehér, ropogós és lédús, kissé durvább szemcsés szerkezetű. Íze édes, alacsony-közepes savtartalommal, kellemes, friss aromával – a Golden Delicious-ra emlékeztet, de erőteljesebb karakterrel.",
+                "Szüreti ideje október közepe-vége. Kitűnő eltarthatóságú: hűtőházi körülmények között akár tavaszig megőrzi minőségét. Frissen fogyasztva is élvezetes, de különösen sütési célokra értékes: nagy mérete, lédús húsa és édessége miatt almás pitébe, crumble-be és rétesbe kerülve kitűnő alapanyag. Almalé alapjaként is megállja a helyét.",
+                "A Mutsu triploid fajta, azaz nem használható pollenforrásnak – termékenyítéséhez más diploid almafajták jelenléte szükséges. Bőtermő, de rendszeres gyümölcsritkítást igényel a megfelelő gyümölcsméret eléréséhez. Fogékony az almavarasodásra és a tűzelhalásra, ezért gondos növényvédelmi stratégiát igényel. Az organikus gazdálkodásban kihívásokkal jár a termesztése, de ízminősége miatt egyre több specialista gazda foglalkozik vele.",
+                "A Mutsu alma igazi különlegesség az átlagos szupermarketi kínálathoz képest. Hatalmas mérete, gazdag íze és szép, sárga megjelenése miatt ízletes ajándéknak is kiváló. Japánban prémiumkategóriás termékként tartják számon, és különleges alkalmakra gyönyörűen csomagolva árusítják. Tápértéke is figyelemre méltó: magas C-vitamin- és káliumtartalma, valamint flavonoidokban való gazdagsága miatt rendszeres fogyasztása hozzájárul az immunvédelem erősítéséhez és a szív egészségéhez."
+            ],
+            "image": "./public/images/apples/images/mutsu.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/mutsu.jpg",
+            "alt": "Mutsu alma",
+            "title": "Mutsu alma - Almák"
+        },
+        {
+            "id": 12,
+            "name": "Elstar",
+            "description": [
+                "Az Elstar egy holland fajta, amelyet a Wilhelminadorp-i Gyümölcstermesztési Kutatóintézetben nemesítettek a Golden Delicious és az Ingrid Marie keresztezéséből, és 1972-ben vezették be a kereskedelmi forgalomba. Neve az angol 'el' előtagból és a 'star' (csillag) szóból ered, utalva kiváló minőségére. Különösen Hollandiában, Belgiumban, Németországban és Svájcban lett meghatározó fajta, de Magyarországon is egyre szélesebb körben termesztik.",
+                "Az Elstar gyümölcse közepes méretű, gömbölyded. Héja sárgászöld alapon narancssárgás-piros fedőszínnel, amelynek kiterjedése és intenzitása az időjárástól és a termőhelytől függ. Húsa sárgásfehér, lédús, finom szemcsés, kellemes ropogósságú. Íze harmonikus savanykás-édes, enyhén fűszeres aromával – kissé a Jonathan ízprofilját idézi, de a Golden Delicious édessége által finomítva. Az Elstar kiváló ízegyensúlya teszi különlegessé a mai édes dominanciájú almafajták tengerében.",
+                "Szüreti ideje szeptember vége, október eleje. Hűtve tárolva januárig-februárig megőrzi minőségét, bár tárolhatósága nem tartozik a legjobb eltarthatóságú fajták közé. Frissen fogyasztva a legjobb, de sütésre, almalé készítésére és salátákba is kiváló. Az Elstar aromái sütés során különösen szépen kibontakoznak, ami almás sütemények és pitéknek igazi karaktert ad.",
+                "Termesztése igényes: az Elstar rendkívül fogékony az almavarasodásra, és bizonyos mértékig a lisztharmatosodásra is. Gondos, időzített növényvédelmet igényel, különösen nedves, csapadékos tavaszi időjárás esetén. Bőtermő fajta, rendszeres gyümölcsritkítást igényel a megfelelő méret és minőség elérése érdekében. Az organikus gazdálkodásban nehezebb termeszteni, de a prémiumáron értékesíthető bio Elstar mégis vonzóvá teszi bizonyos termelők számára.",
+                "Az Elstar különleges ízprofilja miatt különösen azok körében népszerű, akik az édes-savas egyensúlyt keresik, és fáradtak a túlzottan édes, jellegtelen almafajtáktól. Hollandiában és Belgiumban az egyik legkedveltebb hazai almafajta, és az „igazi\" ízű alma szimbóluma. Tápértéke szintén kiváló: antioxidánsokban, C-vitaminban és élelmi rostban gazdag, rendszeres fogyasztása egészségmegőrző hatású."
+            ],
+            "image": "./public/images/apples/images/elstar.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/elstar.jpg",
+            "alt": "Elstar alma",
+            "title": "Elstar alma - Almák"
+        },
+        {
+            "id": 13,
+            "name": "Honeycrisp",
+            "description": [
+                "A Honeycrisp a modern nemesítés egyik csúcsterméke, amelyet a Minnesotai Egyetem fejlesztett ki évtizedes kutatómunkával. Az 1960-as évek végén keresztezték, pontos szülőfajtái sokáig vitatottak voltak, de DNS-elemzések Keepsake almát (és azon keresztül Macoun és Golden Delicious fajtákat) azonosítottak szülőként. 1991-ben szabadalmaztatták, 1991-ben vezették be a kereskedelembe, és az egyik legsikeresebb almafajtává vált az Egyesült Államokban – mára a világ számos részén termesztik.",
+                "A Honeycrisp legfőbb és legismertebb tulajdonsága az egyedülálló ropogós állaga: harapáskor jellegzetes, szinte robbanásszerű ropogással törik, és rendkívüli lédússággal özönlenek elő az ízek. Ez a különleges állag a tágabb sejtméretnek köszönhető, amelyek harapáskor nagy mennyiségű levet szabadítanak fel. Gyümölcse közepesen nagy, sárgászöld alapon élénkpiros fedőszínnel, amely közel egyenletesen borítja a felületet.",
+                "Íze az édes és savas arányok tökéletes egyensúlyát testesíti meg: mézes édességét kellemes, frissítő savak egészítik ki, aromája gazdag és összetett, enyhén mézsavós-gyümölcsös jegyekkel. A Honeycrisp a friss fogyasztás egyik legélvezetesebb almája – snackként, gyümölcstálakba és saláékba egyaránt tökéletes. Sütésre és feldolgozásra is alkalmas, bár magasabb ára miatt főként frissen fogyasztják.",
+                "Termesztése kihívásokkal teli: a Honeycrisp számos betegségre és rendellenességre fogékony, köztük a keserűfoltosságra (bitter pit), a lisztharmatra és a varasodásra. Érzékeny a hőstresszre, és speciális tárolási igényei vannak (lassú lehűtési protokoll szükséges a belső barnulás elkerülése érdekében). Ezek a termesztési kihívások és a szabadalmi díjak részben magyarázzák a fajta viszonylag magas piaci árát, amely akár két-háromszorosa lehet a hagyományos fajtákénak.",
+                "A Honeycrisp almát sokan az „almafajták Rolls-Royce-ának\" nevezik. Prémiumkategóriás státusa, ropogós állaga és kiváló ízprofija miatt kulturális jelenséggé vált az Egyesült Államokban – dedikált termelőpiaci árusok, alma-turizmus és közösségi média-jelenség övezi. Egészségügyi értéke is kiemelkedő: magas antioxidáns- és C-vitamin-tartalommal bír, rostban gazdag, és a rendszeres fogyasztása hozzájárul a szív- és érrendszeri egészség megőrzéséhez."
+            ],
+            "image": "./public/images/apples/images/honeycrisp.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/honeycrisp.jpg",
+            "alt": "Honeycrisp alma",
+            "title": "Honeycrisp alma - Almák"
+        },
+        {
+            "id": 14,
+            "name": "Gloster",
+            "description": [
+                "A Gloster egy német nemesítésű fajta, amelyet a Juterbogi Almakutató Intézetben fejlesztettek ki a Glockenapfel és a Richared Delicious keresztezésével, és 1969-ben vezették be. Neve az egyik szülőfajta, a „Glocken\" szóra és a „Glorious\" (dicső) szóra egyaránt utalhat. Az 1970-es és 1980-as évektől kezdve Közép-Európában – különösen Ausztriában, Csehországban és Magyarországon – vált kedvelt termesztési fajtává.",
+                "A Gloster nagyon attraktív megjelenésű fajta: nagy, gömbölyded-kúpos gyümölcsei szinte teljesen piros fedőszínnel borítottak, amelynek alapszíne alig látszik. Héja fényes, vékonyabb, a felületen jellegzetes rozsdabarnás hálózat látható. Húsa sárgásfehér, lédús, közepes ropogósságú, kellemes textúrájú. Íze savanykás-édes, harmonikus, enyhén fűszeres aromájú – a Jonathan és a Red Delicious jellemzőit ötvözi, de annál gazdagabb és kiegyensúlyozottabb ízprofilban.",
+                "Szüreti ideje október végén, november elején van. Hűtőházi körülmények között akár tavaszig eltartható, bár állaga és íze fokozatosan változik. Frissen fogyasztható, de feldolgozásra – almalé, befőtt, lekvár – is kiváló alapanyag. Sütésre alkalmas, és különösen az almás piték, az almaszósz és a gyümölcslevesek készítésekor érvényesül szépen intenzív aromája.",
+                "Termesztési szempontból a Gloster közepes igényességű fajta. Bőtermő és viszonylag korán beér termőkorba. Fogékony az almavarasodásra és a tűzelhalásra, ezért rendszeres növényvédelmet igényel. Gyümölcsei nagy méretük és vonzó megjelenésük miatt a kereskedelemben jól értékesíthetők. Az exportpiacokon – különösen a kelet-európai és skandináv piacokon – a Gloster stabil keresletet élvez.",
+                "A Gloster a '80-as és '90-es évek Magyarországán az egyik legnépszerűbb téli alma volt, amelyet sokszor karácsonyfa-díszeként is felhasználtak fényes, szép piros héja miatt. Mára valamivel visszaszorult a modern fajták térnyerésével, de az alma-ínyencek és a hagyományos gyümölcstermesztők körében megőrizte becsületét. Tápanyagokban gazdag: C-vitaminban, káliumban és antioxidáns flavonoidokban bővelkedő gyümölcs, amelynek rendszeres fogyasztása jótékonyan hat az immunrendszerre és a szív egészségére."
+            ],
+            "image": "./public/images/apples/images/gloster.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/gloster.jpg",
+            "alt": "Gloster alma",
+            "title": "Gloster alma - Almák"
+        },
+        {
+            "id": 15,
+            "name": "Stayman Winesap",
+            "description": [
+                "A Stayman Winesap egy régi, amerikai fajta, amelynek gyökerei a 19. századi Kansas államba nyúlnak vissza. J. Stayman orvos fedezte fel a Winesap fajtából 1866-ban keletkezett magoncként, és saját farmján kezdte el termeszteni. Az 1895-ös évtől kereskedelmi forgalmazásba kerülve hamarosan az Appalache-vidék egyik legelterjedtebb almafajtájává vált, és Virginiától Pennsylvaniáig, majd az egész Egyesült Államokon át eljutott Európába is.",
+                "A Stayman Winesap gyümölcse közepesen nagy, gömbölyded, enyhén lapított. Héja sötétpiros, csíkos vagy fedett, vastag, fényes. Húsa fehér vagy sárgásfehér, tömör, lédús, finom szemcsés és közepes ropogósságú. Ami igazán különlegessé teszi, az a kivételes ízprofil: erősen savanykás, boros, fűszeres aromájú – nevének „wine\" (bor) eleme is erre utal. Édes-savanyas egyensúlya merőben különbözik a mai édes, semleges ízű fajtáktól.",
+                "Szüreti ideje október vége, november eleje. Kitűnő eltarthatóságú fajta: hűtve akár tavaszig megőrzi minőségét, boros, fűszeres aromája tárolás alatt tovább mélyül. Frissen fogyasztva különleges élmény azoknak, akik markáns, borízű almát keresnek. Almalé és almabor alapanyagaként viszont kiemelkedő értékű: mélyen aromás, komplex italt eredményez. Sütésre, almás pitébe is kiváló, ahol savasságát a cukor jól kompenzálja.",
+                "Termesztése ma már jóval kisebb léptékű, mint a 20. század első felében. A Stayman Winesap triploid fajta, azaz pollenforrásként nem alkalmas. Fogékony a tűzelhalásra és az almavarasodásra. Az újabb, ellenállóbb és egységesebb megjelenésű fajták kiszorították a kereskedelmi termesztésből, ugyanakkor a farmerpiaci és örökségfajta-mozgalom részeként újból felfedezik és termesztik.",
+                "Az „örökségfajta\" (heirloom) almák reneászánszának egyik legfontosabb képviselője a Stayman Winesap. Azok számára, akik fáradtak az édes, jellegtelen szupermarketi almáktól, ez a fajta valódi felüdülést jelent egyedi, boros, intenzív karakterével. Az artizán almabogyó-pálinka (hard cider) mozgalom különösen felértékeli, hiszen savanykás, komplex aromái tökéletesen alkalmasak fermentált italok készítéséhez. Tápértékét tekintve kiemelkedő antioxidáns-forrás, különösen magas proantocianidin- és klorogénsavtartalommal rendelkezik."
+            ],
+            "image": "./public/images/apples/images/stayman_winesap.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/stayman_winesap.jpg",
+            "alt": "Stayman Winesap alma",
+            "title": "Stayman Winesap alma - Almák"
+        },
+        {
+            "id": 16,
+            "name": "Empire",
+            "description": [
+                "Az Empire alma New York államból származik: a Geneva Kísérleti Állomáson nemesítették a McIntosh és a Red Delicious fajtákból az 1940-es évek végén, és 1966-ban vezették be kereskedelmi forgalomba. Neve New York állam beceneve (\"The Empire State\") után kapta elnevezését. Kanadában és az Egyesült Államok keleti partvidékén vált különösen kedveltté, de Európában is elterjedt, és Magyarországon is megtalálható kisebb mennyiségben.",
+                "Az Empire gyümölcse közepes méretű, gömbölyded, egyenletes alakú. Héja mélypiros, szinte teljesen fedett, sötét alapon enyhén csíkos. Húsa fehér, szilárd, lédús, ropogós – a McIntosh lédússágát és a Red Delicious szerkezetét ötvözi. Íze édes-savanykás, harmonikus, enyhén virágos-gyümölcsös aromával. A Red Delicious-szal ellentétben az Empire valóban ízletes, karakteres gyümölcs, amelynek savas jegyei kellemes frissességet adnak az édes alap mellé.",
+                "Szüreti ideje október eleje-közepe. Hűtőházi körülmények között januárig-februárig megőrzi frissességét. Frissen fogyasztva kitűnő, salátákba, gyümölcstálba és uzsonnának ideális. Sütésre is alkalmas, megőrzi alakját, és kellemes savanykás-édes ízeket hoz a süteményekbe. Gyümölcslé és almaszósz alapanyagaként is értékes, bár erre főként az ipari feldolgozásban alkalmazzák.",
+                "Termesztési szempontból az Empire közepesen igényes fajta: jól termő, alkalmazkodóképes, de fogékony az almavarasodásra és a tűzelhalásra. Az éghajlati viszonyok tekintetében hűvösebb kontinentális klímán érzi magát a legjobban, ami segít megőrizni savasságát és ropogósságát. Rendszeres metszést és gondos növényvédelmet igényel a kielégítő minőség biztosításához.",
+                "Az Empire az Újvilág egyik büszkesége, amely nemesítési sikerként ötvözi két jól ismert fajta legjobb tulajdonságait. Különösen New Yorkban és az Appalachian régióban kötődik hozzá kulturális örökség – az alma-turizmus, a farmerpiaci hagyományok és az almaültetvény-látogatások (apple picking) szerves részévé vált. Tápértéke gazdag: magas C-vitamin- és antioxidáns-tartalmú, rostban bővelkedő fajta, amelynek rendszeres fogyasztása hozzájárul az immunrendszer és az emésztőrendszer egészségéhez."
+            ],
+            "image": "./public/images/apples/images/empire.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/empire.jpg",
+            "alt": "Empire alma",
+            "title": "Empire alma - Almák"
+        },
+        {
+            "id": 17,
+            "name": "Kidd's Orange Red",
+            "description": [
+                "Ez a fajta Új-Zélandról származik, és J.H. Kidd kertész nevéhez fűződik – ugyanahhoz az emberhez, akinek a Gala alma köszönheti születését. A Kidd's Orange Red a Cox's Orange Pippin és a Red Delicious keresztezéséből jött létre az 1920-as évek végén, Greytown közelében, Wairarapa régióban. A fajta leginkább szülőfajtájaként vált ismertté, hiszen belőle és a Golden Delicious-ból nemesítették a világhírű Gala almát, de önmagában is kiváló gyümölcs.",
+                "A Kidd's Orange Red gyümölcse közepes méretű, gömbölyded vagy enyhén kúpos. Héja sárga-narancssárga alapon piros fedőszínnel csíkozottan, esetleg részlegesen fedetten – megjelenése szép, meleg tónusú. Húsa sárgásfehér, lédús, közepes ropogósságú, finom szemcsés. Íze gazdag, édes-savanykás-fűszeres, enyhén narancsos aromával, amelyet sokan a Cox's Orange Pippin komplex ízvilágának megfiatalítottabb változataként írnak le.",
+                "Szüreti ideje szeptember vége, október eleje. Nem tartozik a legjobb eltarthatóságú fajták közé, hűtve október-novemberben fogyasztható el optimális minőségben. Frissen fogyasztva az egyik legízletesebb őszi alma: lédús, aromagazdag, komplex ízprofillal. Feldolgozásra is alkalmas, különösen almalé és almaszósz készítéséhez ajánlott, ahol aromái kiválóan érvényesülnek.",
+                "Termesztése ma viszonylag ritka – a fajta nem vált kiterjedt kereskedelmi termelés tárgyává. Fogékony az almavarasodásra és a tűzelhalásra, ami intenzív növényvédelmet igényel. Allergiásabbá teszi az egyes kertészeket iránt az a tény, hogy termesztése komoly figyelmet igényel, és eltarthatósága sem elégíti ki a nagykereskedelmi elvárásokat. Ugyanakkor az örökségfajta-kertészek és az alma-ínyencek különösen kedvelik és becsülik.",
+                "A Kidd's Orange Red alma igazi különlegesség és „titkos kincs\" a kevésbé ismert almafajták világában. Aki belekóstol, az intenzív, komplex, szinte bogyósgyümölcsös-narancsos aromáktól elragadtatva fordul visszafelé – ez az a fajta, amelyről sokan azt mondják: \"ilyen íze volt régen az almának.\" Egészségileg értékes: magas C-vitamin- és flavonoidtartalmú, természetes antioxidánsokban bővelkedő gyümölcs, amelynek fogyasztása immunerősítő és sejtvédő hatású."
+            ],
+            "image": "./public/images/apples/images/kidds_orange_red.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/kidds_orange_red.jpg",
+            "alt": "Kidd's Orange Red alma",
+            "title": "Kidd's Orange Red alma - Almák"
+        },
+        {
+            "id": 18,
+            "name": "Cortland",
+            "description": [
+                "A Cortland a McIntosh familia tagja: a Geneva Kísérleti Állomáson nemesítették New York államban, a McIntosh és a Ben Davis keresztezéséből, és 1915-ben szabadalmaztatták. Neve Cortland megyéről kapta elnevezését. Az Egyesült Államok keleti partvidékén és Kanadában az egyik legnépszerűbb őszi almafajta lett, különösen a New England-régióban örvendett és örvend máig töretlen népszerűségnek. Európában kevésbé elterjedt, de speciális almafarm-üzletek és örökségfajta-kertészek foglalkoznak termesztésével.",
+                "A Cortland gyümölcse közepesen nagy, gömbölyded, kissé lapított. Héja sima, fényes, sötétpiros fedőszínnel, amely csaknem teljesen elfedi a zöldes alapszínt. Különlegesen szép megjelenésű fajta, amelynek piros haja szinte homogén, csíkok nélküli. Húsa fehér, rendkívül sima és lágy, lédús, finom szemcsés szerkezetű. Íze édes, enyhén savanykás, kellemes gyümölcsös aromával – kevésbé intenzív, mint a McIntosh, de barátságos és kiegyensúlyozott.",
+                "Az egyik legkiemelkedőbb tulajdonsága a Cortlandnak, hogy húsa vágás után nagyon lassan barnul el, ami salátákhoz, gyümölcstálakhoz és garnírunghoz rendkívül értékessé teszi. Ez a tulajdonság a McIntosh-hoz képest is megkülönböztetően lassú – valószínűleg a fajta alacsonyabb polifenoloxidáz-enzimaktivitásának köszönhető. Sütésre szintén kiváló: alma-pite és almaszósz alapanyagaként a Cortland az Appalache régióban klasszikus választás.",
+                "Termesztése viszonylag igényes: fogékony az almavarasodásra és a tűzelhalásra, ami gondos növényvédelmet tesz szükségessé. A fajta hűvösebb éghajlaton a legjobb – New England fagyos telei és mérsékelt nyarai ideális feltételeket biztosítanak. A gyümölcsök szürete szeptemberben, október elején esedékes, eltarthatósága közepes, hűtve novemberig-decemberig megőrzi minőségét.",
+                "A Cortland alma New England kulturális örökségének szerves része: az apple picking (alma-szüretelős kirándulás) hagyományos szezonjának egyik sztárja, amelyet kézzel-kézbe szüretelnek a farmokra látogató turisták. Almalekvár, almavaj (apple butter) és almaszósz készítéséhez a régió hagyományos receptjeinek egyik alapanyaga. Tápértéke elismerésre méltó: magas rosttartalma, C-vitamin-gazdagsága és antioxidáns polifenoljai révén a rendszeres fogyasztása szív- és érrendszeri védő hatású."
+            ],
+            "image": "./public/images/apples/images/cortland.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/cortland.jpg",
+            "alt": "Cortland alma",
+            "title": "Cortland alma - Almák"
+        },
+        {
+            "id": 19,
+            "name": "Topaz",
+            "description": [
+                "A Topaz egy modern, cseh nemesítésű fajta, amelyet a Prágai Mezőgazdasági Kutatóintézetben fejlesztettek ki a Rubin és a Vanda keresztezésével, és 1994-ben szabadalmaztatták. Az egyik első kereskedelmileg sikeres, komplex varasodás-ellenálló (Vf-génnel rendelkező) almafajta, amelyet Közép-Európában bevezettek. Különösen az organikus és az integrált termesztésű gazdálkodásban vált meghatározóvá, ahol a csökkentett fungicides kezelési igény gazdasági és környezeti előnyt jelent.",
+                "A Topaz gyümölcse közepes méretű, gömbölyded-kúpos. Héja sárgászöld alapon narancspiros fedőszínnel, amelynek kiterjedése és intenzitása változó. Húsa sárgásfehér, ropogós, tömör, lédús, kissé durva szemcsés szerkezetű. Íze harmonikus édes-savanykás, enyhén fűszeres és gyümölcsös aromával – a Rubin szülőfajta karakteres ízjegyeit örökölte, de finomítva. Különösen a tárolás első hónapjaiban bontakoznak ki aromái teljes szépségükben.",
+                "Szüreti ideje október eleje-közepe. Hűtőházi körülmények között január-februárig megőrzi frissességét. Frissen fogyasztva kellemes, de feldolgozásra is alkalmas: almalé, almaszósz és almabefőtt alapanyagaként jól teljesít. Organikus gazdálkodásból származó Topaz alma különösen keresett a tudatos fogyasztók körében, ahol a csökkentett permetezési igény a termék „tisztaságát\" jelzi.",
+                "Legnagyobb előnye a Vf-gén jelenléte, amely ellenállást biztosít az almavarasodás legelterjedtebb rasszaival szemben. Ez drámaian csökkenti a szükséges fungicides kezelések számát – konvencionális termesztésben is 50-70%-kal kevesebb permetezés elegendő, organikus gazdálkodásban pedig lehetővé teszi a sikeres termesztést, ahol más érzékenyebb fajták elbuknak. Termőkorba lépése gyors, terméshozama jó, mérsékelt és hűvösebb kontinentális éghajlaton kiválóan terem.",
+                "A Topaz az európai varasodás-ellenálló almafajták egyik első kereskedelmi sikertörténete, amely utat mutatott a fenntarthatóbb almatermesztés felé. Az organikus almatermesztők körében az egyik legkedveltebb fajta Közép-Európában – Csehországban, Ausztriában, Svájcban és egyre inkább Magyarországon is. Egészségügyi értéke figyelemre méltó: antioxidáns polifenolokban, C-vitaminban és élelmi rostban gazdag, rendszeres fogyasztása hozzájárul az immunrendszer erősítéséhez és a szív-érrendszeri egészség megőrzéséhez."
+            ],
+            "image": "./public/images/apples/images/topaz.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/topaz.jpg",
+            "alt": "Topaz alma",
+            "title": "Topaz alma - Almák"
+        },
+        {
+            "id": 20,
+            "name": "Summerred",
+            "description": [
+                "A Summerred az egyik legfinomabb nyári almafajta, amelyet Kanadában, a British Columbiában fejlesztettek ki a Summerland Kísérleti Állomáson a McIntosh és a Golden Delicious keresztezésével az 1950-es évek végén, és 1964-ben vezették be a kereskedelembe. Neve szó szerint „nyáripirosat\" jelent, utalva szüretének korai időpontjára és vonzó piros héjára. Európában az 1970-es évektől terjedt el, Magyarországon is megtalálható kisebb mennyiségben, ahol a nyári szezon kedvelt almájaként értékelik.",
+                "A Summerred gyümölcse közepes méretű, gömbölyded, enyhén lapított. Héja sima, fényes, alapszíne sárga-zöld, amelyet szép piros fedőszín borít – az érettség előrehaladásával a piros szín egyre kiterjedtebbé és intenzívebbé válik. Húsa fehér, finom szemcsés, kellemes ropogósságú, lédús. Íze édes-savanykás, frissítő, enyhén McIntosh-ra emlékeztető aromával, de finomabb és kiegyensúlyozottabb karakterrel.",
+                "Szüreti ideje augusztus eleje-közepe, így az egyik legkorábban érett almafajták egyike. Eltarthatósága korlátozott: nem való hosszú hűtőházi tárolásra, néhány héten belül el kell fogyasztani. Frissen fogyasztva a legjobb – a nyár csúcsán érett, frissen szedett Summerred alma különleges ízélmény. Feldolgozásra is alkalmas: nyári almaszósz, frissen préselt almalé és gyümölcssaláta remek alapanyaga.",
+                "Termesztése viszonylag egyszerű, bár igényes a talaj tápanyagtartalmára és a rendszeres öntözésre a száraz nyári időszakban. Fogékony az almavarasodásra és a tűzelhalásra, de korai szüretideje miatt a teljes tenyészidő alatt kisebb a betegségterhelés kockázata. Gyorsan termőkorba lép, bőtermő fajta, de a gyümölcsminőség fenntartásához rendszeres ritkítás szükséges.",
+                "A Summerred alma az igazi nyári frissesség megtestesítője: abban az időszakban kínál friss, ropogós almát, amikor más fajtáknak még hónapokkal van hátra az érettségig. A nyári almapiacon betöltött szerepe pótolhatatlan – juliáris almaként („julius-alma\") tartják számon azok a régi kertészek, akik az egész szezonra folyamatos almaellátást terveznek. Tápértéke a nyár csúcsán a legkiemelkedőbb: frissen szedve maximális C-vitamin- és antioxidáns-tartalommal rendelkezik, rostban bővelkedő, alacsony kalóriatartalmú gyümölcs, amely a nyári diéta kiváló kiegészítője."
+            ],
+            "image": "./public/images/apples/images/summerred.jpg",
+            "thumbnail": "./public/images/apples/thumbnails/summerred.jpg",
+            "alt": "Summerred alma",
+            "title": "Summerred alma - Almák"
+        }
+    ]
+}

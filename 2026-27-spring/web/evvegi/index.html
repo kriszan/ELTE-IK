@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description"
+        content="Szereti az almákat? Itt minden információt fellelhet kedvenc almafajtáiról, mi több, még sütireceptet is találhat. Látogasson el weboldalunkra még ma.">
+    <meta name="keywords" content="alma, almafajta, almafajták, almássüti, almáspite, almás">
+    <meta name="author" content="Szávai Krisztián Y9HY6E">
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alma</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="./src/styles/main.css">
+    <script src="./src/scripts/main.js" defer></script>
+</head>
+
+<body>
+
+    <a class="visually-hidden-focusable skip-link" href="#main-content">Fő tartalom</a>
+    <a class="visually-hidden-focusable skip-link" href="#apple">Almafajták</a>
+    <a class="visually-hidden-focusable skip-link" href="#cookie">Sütemények</a>
+    <a class="visually-hidden-focusable skip-link" href="#form">Űrlap</a>
+    <a class="visually-hidden-focusable skip-link" href="#footer">Lábléc</a>
+
+
+    <header tabindex="-1">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand active" href="#" aria-current="page">Almák</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./src/pages/error404.html">Körték</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./src/pages/error404.html">Szilva</a>
+                        </li>
+                    </ul>
+                    <div class="form-check form-switch">
+                        <label class="form-check-label" for="switchAccessibility">Akadálymentes mód</label>
+                        <input class="form-check-input" type="checkbox" role="switch" id="switchAccessibility">
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container my-4" id="main-content" tabindex="-1">
+        <section class="row text-center align-items-center mainpage-header">
+            <div class="col-12">
+                <h1>Főoldal - Almák</h1>
+            </div>
+        </section>
+
+        <div class="no-inline-padding">
+
+            <div class="row">
+                <article class="col-8">
+                    <h2>A természet legnépszerűbb ajándéka</h2>
+
+                    <p>Az alma nem csupán egy <strong>gyümölcs</strong> a sok közül, hanem évezredek óta az emberi
+                        táplálkozás és kultúra
+                        egyik alapköve. Világszerte a legelterjedtebb <strong>gyümölcsfajta</strong>, amely szinte
+                        minden éghajlaton
+                        megtalálta a helyét.</p>
+
+                    <p><strong>Vitaminokban</strong> és <strong>rostokban</strong> gazdag <strong>gyümölcs</strong>,
+                        amely támogatja az emésztést, erősíti az
+                        immunrendszert,
+                        és hosszan tartó teltségérzetet biztosít.</p>
+
+                    <p>Az almafajták világa rendkívül sokszínű, több ezer különböző változattal. Egyesek
+                        <strong>friss</strong>
+                        fogyasztásra
+                        ideálisak, mások <strong>sütéshez</strong> és <strong>főzéshez</strong> a legalkalmasabbak.
+                    </p>
+                </article>
+                <section class="col-4">
+                    <h3>Sitemap</h3>
+                    <details>
+                        <summary>Sitemap</summary>
+                        <p>Oldalon belüli navigációra szolgáló linkek</p>
+                    </details>
+                    <table class="table-responsive">
+                        <caption>Oldalon belüli navigációra szolgáló linkek</caption>
+                        <thead>
+                            <tr>
+                                <th scope="col">Menüpont</th>
+                                <th scope="col">Leírás</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><a href="#apple">Almafajták</a></td>
+                                <td>Mindenféle almafajtára vonatkozó információk</td>
+                            </tr>
+                            <tr>
+                                <td><a href="#cookie">Sütemények</a></td>
+                                <td>Almás pite és egyéb almás sütemények</td>
+                            </tr>
+                            <tr>
+                                <td><a href="#form">Ön szereti az almát?</a></td>
+                                <td>"Ön szereti az almát?" - kérdőív</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </section>
+            </div>
+
+            <section class="row">
+                <h3 id="apple">Almafajták</h3>
+                <div class="col-12">
+                    <p>Itt találsz mindenféle almát!</p>
+                    <div id="apple-container" class="row justify-content-center">
+                    </div>
+                </div>
+            </section>
+
+            <section class="row">
+                <article class="col-12">
+                    <h2 id="cookie">Sütemények</h2>
+
+                    <p>Az alma az egyik legsokoldalúbb gyümölcs a sütésben: természetes édessége és enyhén savanykás íze
+                        kiválóan működik különféle tésztákban és töltelékekben. Sütés közben megpuhul, aromája
+                        felerősödik, és kellemesen szaftossá teszi a süteményeket.</p>
+
+                    <p>Az almás piskóták, morzsás sütemények és rétegezett piték mind ezt a tulajdonságot használják ki.
+                        Az alma jól társítható fahéjjal, vaníliával, dióval vagy akár karamellás ízekkel is.</p>
+
+                    <p>Ezek közül talán a legismertebb az almás pite, amely az omlós tészta és a fűszeres töltelék
+                        harmonikus találkozása.</p>
+                </article>
+
+                <div class="col-md-6">
+                    <h3>Hozzávalók (4 adaghoz)</h3>
+                    <ul>
+                        <li>50 dkg finomliszt</li>
+                        <li>25 dkg margarin</li>
+                        <li>10 dkg porcukor</li>
+                        <li>2 db tojás</li>
+                        <li>0.5 csomag sütőpor</li>
+                        <li>7 nagy db alma</li>
+                        <li>fahéj ízlés szerint</li>
+                        <li>1 csomag vaníliás cukor</li>
+                        <li>15 dkg cukor</li>
+                    </ul>
+
+                    <aside>
+                        <p>További receptekért kérlek látogass el a <a href="https://nosalty.hu/receptek"
+                                target="_blank">Nosalty</a>, illetve a <a href="https://mindmegette.hu/"
+                                target="_blank">Mindmegette</a> weboldalára!</p>
+                    </aside>
+
+                    <p><strong>A videó nem saját, minden jog a szerzőt illeti.</strong><br>
+                        Forrás:
+                        <a href="https://www.youtube.com/watch?v=4TVcV7NT4pQ" target="_blank">YouTube</a>
+                    </p>
+                    <details>
+                        <summary>Video leírása</summary>
+                        <strong>Nosalty - Almás strongite recept</strong><br>
+                        <p>Egy tálba szorjunk bele 50 dkg (átszitált) <strong>búzafinomlisztet</strong>, majd szorjunk
+                            hozzá egy fél
+                            csomag <strong>sütőport</strong>. Keverjük össze és adjuk hozzá a 25 dkg szobahőmérsékletű
+                            <strong>vajat</strong>. Morzsoljuk
+                            el a vajat, még egy homogén masszát nem kapunk. Adjuk hozzá a 10 dkg (átszitált)
+                            <strong>porcukrot</strong>
+                            és a 2 darab <strong>tojást</strong>. Tegyük félre pihenni.
+                        </p>
+                        <p>Addig készítsük el az almát. Meghámozott, legyalult almát lecsöpögtetjük, majd egy másik
+                            tálba 15 dkg cukorral, mokkáskanálnyi <strong>fahéjjal</strong> és 1 csomag
+                            <strong>vanilliás cukorral</strong> ízlés szerint
+                            ízesítjük. Összekeverjük őket.
+                        </p>
+                        <p>Lisztes sodródeszkán a <strong>tészta</strong> felét kinyújtjuk, kivajazott tepsibe
+                            helyezzük, villával
+                            megszurkáljuk. Az almát egyenletesen eloszlatjuk rajta, majd a kinyujtott
+                            <strong>tészta</strong>
+                            másikfelével lefedjük. <strong>Tészta</strong> tetejét villával megszurkáljuk. 180 celsius
+                            fokon 20 percig
+                            sütjük. Kihülés után <strong>porcukrozottan</strong> tálaljuk.
+                        </p>
+                    </details>
+
+                </div>
+
+                <div class="col-md-6">
+                    <figure>
+                        <video src="./public/videos/suti.mp4" class="w-100 object-fit-cover"
+                            poster="./public/images/poster.png" controls></video>
+                        <figcaption class="visually-hidden">
+                            Klasszikus magyar almás pite elkészítése: omlós tészta, fahéjas almás töltelék,
+                            rétegezés és sütés hagyományos módon.
+                        </figcaption>
+                    </figure>
+                </div>
+            </section>
+
+            <section class="row my-4 justify-content-center">
+                <div class="col-12 col-md-6 text-center">
+                    <h2>Ön szereti az almát?</h2>
+
+                    <form id="form" class="text-start">
+                        <fieldset class="mb-4">
+                            <legend>Szereti az almát?</legend>
+                            <input required id="igen" type="radio" name="szereti" value="igen">
+                            <label for="igen"> Igen</label><br>
+                            
+                            <input required id="nem" type="radio" name="szereti" value="nem">
+                            <label for="nem"> Nem</label>
+                        </fieldset>
+
+                        <fieldset class="mb-4">
+                            <legend>Mely típusokat kedveli?</legend>
+                            <label for="green"> Zöld alma</label><input id="green" type="checkbox" name="green"><br>
+                            <label for="red"> Piros alma</label><input id="red" type="checkbox" name="red">
+                        </fieldset>
+
+                        <div class="input required-group justify-content-evenly">
+                            <fieldset class="mb-2">
+                                <label for="weekly">Hányszor eszik almát?</label>
+                                <input required id="weekly" type="number" value="0" min="0" max="7" name="weekly"
+                                    class="form-control">
+                            </fieldset>
+                            <fieldset class="mb-2">
+                                <label for="unit">Milyen mértékegységben érti (pl.: /nap, /cm, /láb)?</label>
+                                <input required id="unit" type="text" name="unit" class="form-control">
+                            </fieldset>
+
+                        </div>
+
+
+
+                        <fieldset class="mb-4">
+                            <label for="notes">Megjegyzés</label>
+                            <textarea id="notes" name="notes" rows="3" cols="50" placeholder="Írd be a megjegyzésed"
+                                class="form-control"></textarea>
+                        </fieldset>
+
+                        <button type="submit" class="redbutton btn btn-primary">Küldés</button>
+                    </form>
+
+                    <div id="result" class="mt-4" hidden></div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="bg-light py-4 text-center" tabindex="-1">
+        <div class="container">
+            <p>&copy; 2025 Almák. Készítette: Szávai Krisztián Y9HY6E</p>
+            <aside>Körték és szilvák weboldalak fejlesztés alatt</aside>
+        </div>
+    </footer>
+</body>
+
+</html>

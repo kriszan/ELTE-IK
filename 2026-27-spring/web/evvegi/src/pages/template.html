@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description"
+        content="Szereti az almákat? Itt minden információt fellelhet kedvenc almafajtáiról, mi több, még sütireceptet is találhat. Látogasson el weboldalunkra még ma.">
+    <meta name="keywords" content="alma, almafajta, almafajták, almássüti, almáspite, almás">
+    <meta name="author" content="Szávai Krisztián Y9HY6E">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alma</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../scripts/template.js"></script>
+    <link rel="stylesheet" href="../../src/styles/main.css">
+</head>
+
+
+
+<body>
+    <header tabindex="-1">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand active" href="../../index.html" aria-current="page">Almák</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="../../src/pages/error404.html">Körték</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../../pages/error404.html">Szilva</a>
+                        </li>
+                    </ul>
+                    <div class="form-check form-switch">
+                        <label class="form-check-label" for="switchAccessibility">Akadálymentes mód</label>
+                        <input class="form-check-input" type="checkbox" role="switch" id="switchAccessibility">
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="container my-4 pt-2 pb-4">
+        <div class="row d-flex align-items-center">
+            <div class="col-4 d-flex justify-content-center">
+                <figure class="myfigure">
+                    <img id="apple-img" class="hover-image img-fluid myimage" data-bs-toggle="modal"
+                        data-bs-target="#imageModal" alt="Apple image" title="Apple image" src="./../../public/images/no_image.jpg"
+                        onerror="this.onerror=null; this.src='./../../public/images/no_image.jpg';">
+                    <figcaption id="apple-img-desc" class="visually-hidden">${name} alma</figcaption>
+                </figure>
+            </div>
+            <div class="col-8">
+                <article id="apple-description">
+                    <h1 id="apple-name">${name}</h1>
+                </article>
+                <a href="./../../index.html" class="btn btn-primary redbutton">Vissza a főoldalra</a>
+            </div>
+        </div>
+    </main>
+    <footer class="bg-light py-4 text-center align-items-center" tabindex="-1">
+        <div class="container">
+            <p>&copy; 2025 Almák. Készítette: Szávai Krisztián Y9HY6E</p>
+            <aside>Körték és szilvák weboldalak fejlesztés alatt</aside>
+        </div>
+    </footer>
+
+
+    <div class="modal fade" id="imageModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-fullscreen">
+            <div class="modal-content">
+
+                <div class="modal-header border-0 bg-dark text-white">
+                    <h2 class="modal-title" id="modal-title">Heading</h2>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                        aria-label="Close"></button>
+                </div>
+
+                <div class="modal-body d-flex justify-content-center align-items-center p-0">
+                    <img src="./../../public/images/no_image.jpg" id="modal-img" alt="" class="img-fluid"
+                        style="max-height:85vh; object-fit:contain;">
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

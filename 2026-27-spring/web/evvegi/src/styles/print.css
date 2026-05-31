@@ -1,0 +1,44 @@
+/*==== PRINT ====*/
+@media print {
+    @page {
+        margin: 20mm;
+    }
+
+    body {
+        background: none !important;
+    }
+
+    .header-bg {
+        display: block !important;
+    }
+
+    .mainpage-header {
+        min-height: 300px;
+    }
+
+    a::after {
+        content: " (" attr(href) ")";
+        font-size: 0.8em;
+        color: #666;
+    }
+
+    #apple-container {
+        page-break-inside: avoid;
+    }
+
+    .navbar {
+        display: none !important;
+    }
+
+    .no-inline-padding {
+        padding: 0 !important;
+    }
+
+    video {
+        display: none !important;
+    }
+
+    hr {
+        display: none !important;
+    }
+}
