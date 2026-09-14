@@ -6,6 +6,15 @@ Egy kis Elte Bsc-s anyag gyűjtemény.
 
 Ezek NEM saját repo-k, minden kredit a repository tulajdonosát illeti:
 
+- [lizawappel/ELTE-IK](https://github.com/lizawappel/ELTE-IK)
+- [ildipetra/ELTE-IK](https://github.com/ildipetra/ELTE-IK)
+
+
+### Tárgyanként:
+- [Haladó Imperatív Programozás](https://github.com/ZetLee/Imperativ/tree/main)
+
+### Vegyes:
+
 - [ELTE IK BSc 2019- 21 Imdonix](https://github.com/imdonix/elte-ik-bsc)
 - [ELTE IK BSc 2020- 23 Valentinusz](https://github.com/Valentinusz/elte-ik-bsc)
 - [HKM0](https://github.com/HKM0/ELTE-IK-BSC)
